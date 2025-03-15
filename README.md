@@ -1,1 +1,1 @@
-# blueprints-rs
+# My blueprints for new Rust projects
